@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-html-5-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-css3-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-javascript-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-sass-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-bootstrap-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-git-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-wordpress-48.svg)
+
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-typescript-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-react-native-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-angularjs-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-vue-js-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-redux-48.svg)
+
+
+
+
