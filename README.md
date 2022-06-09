@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## —💻 Here is my stack of technologies:
+## —💻 Here is my stack:
 ![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-html-5-48.svg)
 ![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-css3-48.svg)
 ![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-javascript-48.svg)
