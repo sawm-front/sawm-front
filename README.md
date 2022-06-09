@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 ![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-wordpress-48.svg)
 
 ## — 👨‍💻 I'm currently learning:
-![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-typescript-48.svg)
+
 ![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-react-native-48.svg)
+![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-typescript-48.svg)
 
 ## — 💡 Things i wish to learn:
 ![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-angularjs-48.svg)
