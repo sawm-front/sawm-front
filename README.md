@@ -1,7 +1,7 @@
-# Hi there, I'm Aleksey Akimov 👋
-## Frontend Developer
+<h1 align="center">Hi 👋, I'm Aleksey Akimov</h1>
+<h3 align="center">- a Frontend Developer </h3>
 
-### —💻 Here is my stack:
+## —💻 Here is my stack:
 ![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-html-5-48.svg)
 ![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-css3-48.svg)
 ![site pic](https://github.com/sawm-front/sawm-front/blob/main/img/icons8-javascript-48.svg)
